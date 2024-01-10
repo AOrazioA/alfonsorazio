@@ -76,7 +76,7 @@ img {
 
 /* NAVBAR */
 .navbar {
-    background-color: var(--color-base);
+    background-color: var(--color-base2);
 }
 
 .navbar .nav-link {
